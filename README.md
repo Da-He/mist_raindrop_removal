@@ -18,11 +18,11 @@ The code implementation is built based on the repository https://github.com/zhil
 * numpy, matplotlib, Pillow
 
 ### Dataset preparation and description
-Download link: [Dropbox](), [Baidu Yun 百度云](https://pan.baidu.com/s/1c_JD9DmnzHF4N4OuCn3jow)(password: fgb5)
+Download link: [Dropbox](https://drive.google.com/file/d/1RFERNR4Jp-kHjnE4e_5pmwqGComIDoRR/view?usp=sharing), [Baidu Yun 百度云](https://pan.baidu.com/s/1c_JD9DmnzHF4N4OuCn3jow)(password: fgb5)
 
 To use the dataset with this implementation, decompress the `MistAndRaindrop_dataset.zip` file and place the obtained folder `MistAndRaindrop` in `./datasets`.  
 
-There are 3 sub-sets (`train`, `val`, `test`). In each of the sub-set, each image file is named as XXX.YY-TYPE.png. Images with the same XXX correspond to the same scene. For each scene, the filename containing "landscape" indicates the Ground Truth (clean) image, while other filenames correspond to the degraded images with differently and randomly adherent mist / raindrops.
+There are 3 sub-sets (`train`, `val`, `test`). In each of the sub-set, each image file is named as "XXX.YY-TYPE.png". Images with the same XXX correspond to the same scene. For each scene, the filename containing "landscape" indicates the Ground Truth (clean) image, while other filenames correspond to the degraded images with differently and randomly adherent mist / raindrops.
 
 For example, in the `val` sub-set, scene `611` contains three image files: `611.0-landscape.png`, `611.0-spray.png`, `611.1-spray.png`. The file `611.0-landscape.png` is the Graond Truth file, corresponding to two degraded images.
 
