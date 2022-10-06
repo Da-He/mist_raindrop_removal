@@ -6,6 +6,16 @@ Da He, Xiaoyu Shang, Jiajia Luo \
 ### Citation:
 If you find this implementation, the article, or our dataset is helpful / useful / inspiring, please cite the following :D
 
+@article{he2022adherent, \
+  title={Adherent mist and raindrop removal from a single image using attentive convolutional network}, \
+  author={He, Da and Shang, Xiaoyu and Luo, Jiajia}, \
+  journal={Neurocomputing}, \
+  volume={505}, \
+  pages={178--187}, \
+  year={2022}, \
+  publisher={Elsevier} \
+}
+
  - - -
 This repository is the official implementation.  
 
