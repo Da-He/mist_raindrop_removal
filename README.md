@@ -28,7 +28,7 @@ The code implementation is built based on the repository https://github.com/zhil
 * numpy, matplotlib, Pillow
 
 ### Dataset preparation and description
-Download link: [Dropbox](https://drive.google.com/file/d/1RFERNR4Jp-kHjnE4e_5pmwqGComIDoRR/view?usp=sharing), [Baidu Yun 百度云](https://pan.baidu.com/s/1c_JD9DmnzHF4N4OuCn3jow)(password: fgb5)
+Download link: [Google Drive](https://drive.google.com/file/d/1RFERNR4Jp-kHjnE4e_5pmwqGComIDoRR/view?usp=sharing), [Baidu Yun 百度云](https://pan.baidu.com/s/1c_JD9DmnzHF4N4OuCn3jow)(password: fgb5)
 
 To use the dataset with this implementation, decompress the `MistAndRaindrop_dataset.zip` file and place the obtained folder `MistAndRaindrop` in `./datasets`.  
 
